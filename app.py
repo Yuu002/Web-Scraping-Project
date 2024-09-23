@@ -1,7 +1,8 @@
 import streamlit as st
-import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
+
+st.title("Product Price Perdition")
 
 # โหลดผลลัพธ์และโมเดลจากไฟล์ pickle
 @st.cache
