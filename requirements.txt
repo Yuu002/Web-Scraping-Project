@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+csv
+re
+sys
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
